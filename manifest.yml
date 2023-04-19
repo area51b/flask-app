@@ -3,4 +3,4 @@ version: 1
 applications:
 - name: flask-app
   routes:
-  - route: flask-app-balamkumar.apps.smu.hackathon.systems
+  - route: flask-app-balamkumar.apps.tas.cnasg.dellcsc.com
