@@ -4,3 +4,5 @@ applications:
 - name: flask-app
   routes:
   - route: flask-app-balamkumar.apps.tas.cnasg.dellcsc.com
+  docker:
+    image: balamkumar/flask-app
